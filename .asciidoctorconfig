@@ -1,0 +1,10 @@
+// The attributes every renderer of this repository's writing applies.
+// diff.me renders posts with these, and so do the editors that read this
+// file (IntelliJ, VS Code, Eclipse).
+:source-highlighter: highlight.js
+:icons: font
+:sectanchors:
+:nofooter:
+:experimental:
+:idprefix:
+:idseparator: -
